@@ -10,5 +10,6 @@
 ## 참고 자료
 
 - 교재 : 코틀린 인 액션 http://www.yes24.com/Product/Goods/55148593
+- 교재에서 사용된 그림 필요할 때 : https://livebook.manning.com/book/kotlin-in-action/about-this-book/
 - 온라인 데모 : https://play.kotlinlang.org/
 - 교재 챕터별 예제 : https://try.kotlinlang.org/#/Kotlin%20in%20Action/Chapter%202/2.1/2_Functions.kt
